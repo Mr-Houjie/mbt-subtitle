@@ -1,0 +1,7 @@
+import {
+  "Mr-Houjie/mbt-subtitle" @lib,
+  "moonbitlang/x/fs",
+  "moonbitlang/x/sys",
+}
+
+pkgtype(kind: "executable")

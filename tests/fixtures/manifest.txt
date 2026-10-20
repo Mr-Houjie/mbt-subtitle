@@ -1,0 +1,8 @@
+normal.srt|2|0
+overlap.srt|2|1
+empty.srt|1|1
+short.srt|1|1
+long.srt|1|1
+wide.srt|1|1
+multiline.srt|1|0
+crlf.srt|1|0
