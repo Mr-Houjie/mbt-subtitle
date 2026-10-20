@@ -48,4 +48,4 @@ mbt-subtitle 用 MoonBit 原生实现字幕处理：解析 SRT / WebVTT，校验
 
 仓库：https://github.com/Mr-Houjie/mbt-subtitle
 
-`main` 分支包含 11 个有效提交，按「脚手架 → 类型 → 解析 → 序列化 → 变换 → 校验 → CLI → 语料 → 真实 fixture → GUI → 文档」分层，无空提交、无重复提交。
+`main` 分支包含 13 个有效提交，按「脚手架 → 类型 → 解析 → 序列化 → 变换 → 校验 → CLI → 语料 → 真实 fixture → GUI → 文档」分层，无空提交、无重复提交。
